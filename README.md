@@ -10,7 +10,7 @@ The core innovation of HSAF-DWAN lies in its ability to integrate diverse data m
 
 ## Cookie Theft Task
 In the "Cookie Theft" task, participants are shown a picture depicting a detailed scene: a boy reaching for cookies from a jar, a woman cleaning plates, a sink brimming over with water, and a kitchen filled with various household items, such as dishes, food, and possibly an open window. Participants were asked to describe the picture as much as possible. The "Cookie Theft" picture is as follows:
-![The picture used for the Cookie Theft task](./image/cookie.png)
+![The picture used for the Cookie Theft task](./data/images/cookie.png)
 ## Key Contributions
 
 1. **Attention-Weighted Image Set**: Integrates text-image relevance with key visual areas from the Cookie Theft picture.
